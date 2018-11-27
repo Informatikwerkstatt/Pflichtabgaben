@@ -24,7 +24,7 @@ public class CMain
         IFahrzeug benzin = auto1;
         benzin.schalte(5);
         System.out.println(auto1.getGang());
-        fox.schalte(3);
+        VW.schalte(3);
         System.out.println(auto2.getGang());
 
         // nutze diese Methode für die weiteren Teile der Aufgabe
